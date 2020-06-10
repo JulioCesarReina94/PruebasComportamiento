@@ -14,7 +14,7 @@ def  sumar():
 	new_operacion = {
 		"numeroUno": request.json['numeroUno'],
 		"numeroDos": request.json['numeroDos'],
-		"resultado": request.json['numeroUno'] + request.json['numeroDos']
+		"resultado": int(request.json['numeroUno']) + int(request.json['numeroDos'])
 	}
 	return jsonify({"Status": respuesta,"Resultado": new_operacion})
 
@@ -23,7 +23,7 @@ def  restar():
 	new_operacion = {
 		"numeroUno": request.json['numeroUno'],
 		"numeroDos": request.json['numeroDos'],
-		"resultado": request.json['numeroUno'] - request.json['numeroDos']
+		"resultado": int(request.json['numeroUno']) - int(request.json['numeroDos'])
 	}
 	return jsonify({"Status": respuesta,"Resultado": new_operacion})
 
@@ -32,7 +32,7 @@ def  multiplicar():
 	new_operacion = {
 		"numeroUno": request.json['numeroUno'],
 		"numeroDos": request.json['numeroDos'],
-		"resultado": request.json['numeroUno'] * request.json['numeroDos']
+		"resultado": int(request.json['numeroUno']) * int(request.json['numeroDos'])
 	}
 	return jsonify({"Status": respuesta,"Resultado": new_operacion})
 
@@ -41,7 +41,7 @@ def  dividir():
 	new_operacion = {
 		"numeroUno": request.json['numeroUno'],
 		"numeroDos": request.json['numeroDos'],
-		"resultado": request.json['numeroUno'] / request.json['numeroDos']
+		"resultado": int(request.json['numeroUno']) / int(request.json['numeroDos'])
 	}
 	return jsonify({"Status": respuesta,"Resultado": new_operacion})
 

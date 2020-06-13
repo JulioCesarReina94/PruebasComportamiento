@@ -18,6 +18,8 @@ Behave es un framework para el desarrollo basado en comportamientos, se basa en 
 
 # Pruebas de funcionamiento de la implementación 
 
+A continuacion se muestra la validacion del ejercicio propuesto, en donde se implementa el BDD para un sevicio web que permite obetener el resultado de las operaciones suma, resta, multiplicación y división. 
+
 ## Servicio Web
 
 Implementacion del servicio web desarrollado con flask 
@@ -26,7 +28,7 @@ Implementacion del servicio web desarrollado con flask
 
 ## Implementacion del framework Behave
 
-Definicion de los casos de prueba en el archivo .feature
+Definición de los casos de prueba en el archivo .feature
 
 ![FIGURA 2](img/feature.jpg)
 
@@ -40,7 +42,7 @@ Ejecución del proceso
 
 ![FIGURA 2](img/behave.jpg)
 
-Peticiones realizadas al servicio web durante la ejcucion de la prueba
+Peticiones realizadas al servicio web durante la ejcución de la prueba
 
 ![FIGURA 4](img/calculadora_2.jpg)
 

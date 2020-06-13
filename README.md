@@ -14,11 +14,16 @@ El desarrollo impulsado por el comportamiento es una técnica que surge a raíz 
 El lenguaje más usado en esta tecnica es Gherkin, cuya base son las sentencias Given, When y Then. Con Given debemos añadir todos los pasos necesarios para llegar hasta el punto donde queremos realizar el test. En When realizamos un estímulo, lo que se prueba. Idealmente sería una única sentencia. Con Then comprobamos que el resultado del estímulo es el esperado.
 
 ## Behave 
-Una de las implementaciones de Gherkin en Python más usadas es Behave. 
+Behave es un framework para el desarrollo basado en comportamientos, se basa en python y actualmente es una de las implementaciones mas usadas en la aplicacion del lenguaje Gherkin. Este utiliza pruebas escritas en lenguaje natural, respaldadas por código Python. Se puede decir que se trata de un clon de Cucumber implementado para Python. Para su tilizacion se usan features donde creamos la test suite para verificar un requerimiento determinado. El archivo .feature contiene escenarios donde definimos los pasos Given->When->Then para verificar los criterios de aceptación de la funcionalidad en desarrollo.
 
+# Pruebas de funcionamiento de la implementación 
+
+## Servicio Web
+Implementacion del servicio we desarrollado con flask 
 
 ![FIGURA 1](img/calculadora.jpg)
 
+## 
 ![FIGURA 2](img/behave.jpg)
 
 ![FIGURA 3](img/resultados.jpg)

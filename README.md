@@ -23,7 +23,7 @@ Creación del servicio Web
 
 ![FIGURA 1](img/calculadora.jpg)
 
-Implementacion del servicio we desarrollado con flask 
+Implementacion del servicio web desarrollado con flask 
 
 ![FIGURA 1](img/calculadora.jpg)
 
@@ -43,7 +43,7 @@ Ejecución del proceso
 
 ![FIGURA 2](img/behave.jpg)
 
-Peticiones realizadas al servicio Web durante la ejcucion de la prueba
+Peticiones realizadas al servicio web durante la ejcucion de la prueba
 
 ![FIGURA 4](img/calculadora_2.jpg)
 

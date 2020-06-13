@@ -6,4 +6,4 @@ Cristian Gonzalez   20201099032
 
 Andres Lozano          20201099038
 
-# PruebasComportamiento
+# Pruebas de Comportamiento

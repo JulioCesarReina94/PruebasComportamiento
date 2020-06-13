@@ -19,9 +19,6 @@ Behave es un framework para el desarrollo basado en comportamientos, se basa en 
 # Pruebas de funcionamiento de la implementación 
 
 ## Servicio Web
-Creación del servicio Web
-
-![FIGURA 1](img/calculadora.jpg)
 
 Implementacion del servicio web desarrollado con flask 
 

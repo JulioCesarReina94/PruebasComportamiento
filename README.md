@@ -15,3 +15,12 @@ El lenguaje más usado en esta tecnica es Gherkin, cuya base son las sentencias 
 
 ## Behave 
 Una de las implementaciones de Gherkin en Python más usadas es Behave. 
+
+
+![FIGURA 1](img/calculadora.jpg)
+
+![FIGURA 2](img/behave.jpg)
+
+![FIGURA 3](img/resultados.jpg)
+
+![FIGURA 4](img/calculadora II.jpg)

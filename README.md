@@ -23,4 +23,4 @@ Una de las implementaciones de Gherkin en Python más usadas es Behave.
 
 ![FIGURA 3](img/resultados.jpg)
 
-![FIGURA 4](img/calculadora II.jpg)
+![FIGURA 4](img/calculadora_2.jpg)

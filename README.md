@@ -1,9 +1,7 @@
-Integrantes: 
+###Integrantes: 
 
 Julio Cesar Reina      20201099045
-
 Cristian Gonzalez   20201099032
-
 Andres Lozano          20201099038
 
 # Pruebas de Comportamiento
@@ -19,13 +17,36 @@ Behave es un framework para el desarrollo basado en comportamientos, se basa en 
 # Pruebas de funcionamiento de la implementación 
 
 ## Servicio Web
+Creación del servicio Web
+
+![FIGURA 1](img/calculadora.jpg)
+
 Implementacion del servicio we desarrollado con flask 
 
 ![FIGURA 1](img/calculadora.jpg)
 
-## 
+## Implementacion del framework Behave
+
+Definicion de los casos de prueba en el archivo .feature
+
+![FIGURA 2](img/feature.jpg)
+
+## Configuracion de los pasos (sentencias Given->When->Then)
+
+![FIGURA 2](img/steps.jpg)
+
+## Validacion del funcionamiento del framework 
+
+Ejecución del proceso
+
 ![FIGURA 2](img/behave.jpg)
+
+Peticiones realizadas al servicio Web durante la ejcucion de la prueba
+
+![FIGURA 4](img/calculadora_2.jpg)
+
+Resultados de la prueba
 
 ![FIGURA 3](img/resultados.jpg)
 
-![FIGURA 4](img/calculadora_2.jpg)
+
